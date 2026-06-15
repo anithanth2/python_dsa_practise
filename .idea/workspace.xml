@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="649130eb-d57a-4ad3-ac03-bb8a082b4f73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/3Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/containerWithMostWater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/maxSubArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/productofArrayitself.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/maxFrequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/maximumWindowSubarray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +43,9 @@
     "Python.containerWithMostWater.executor": "Run",
     "Python.findDuplicate.executor": "Run",
     "Python.groupAnagrams.executor": "Run",
+    "Python.maxFrequency.executor": "Run",
+    "Python.maxSubArray.executor": "Run",
+    "Python.maximumWindowSubarray.executor": "Run",
     "Python.productofArrayitself.executor": "Run",
     "Python.regular.executor": "Run",
     "Python.twoSum.executor": "Run",
